@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Manten"><img src="https://api.daily.dev/devcards/4316418bf7f846498a7a4d9f9acc67fa.png?r=3li" width="400" alt="Jorge Soto's Dev Card"/></a>
+<a href="https://app.daily.dev/Manten"><img src="https://api.daily.dev/devcards/4316418bf7f846498a7a4d9f9acc67fa.png?r=rq9" width="400" alt="Jorge Soto's Dev Card"/></a>
 
 <!--
 **Jmsm19/Jmsm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
